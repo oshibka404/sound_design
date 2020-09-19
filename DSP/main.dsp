@@ -3,7 +3,7 @@ declare author "Andrey Ozornin";
 declare copyright "Ozornin Music";
 declare version "0.01";
 declare license "MIT";
-declare options "[midi:on][style:poly][nvoices:12]";
+declare options "[midi:on]";
 
 import("stdfaust.lib");
 
